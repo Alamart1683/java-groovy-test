@@ -1,0 +1,623 @@
+2025-03-25 16:25:06.407 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   2 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   2 occurrence(s)
+      5 в†’   2 occurrence(s)
+2025-03-25 16:25:06.410 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:25:06.427 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 в†’   3 occurrence(s)
+2025-03-25 16:25:06.428 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:06.430 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   2 occurrence(s)
+     -1 в†’   1 occurrence(s)
+      1 в†’   1 occurrence(s)
+2025-03-25 16:25:06.430 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:25:06.432 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:25:06.433 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:25:06.435 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 в†’   1 occurrence(s)
+2025-03-25 16:25:06.436 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:06.438 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 в†’   5 occurrence(s)
+2025-03-25 16:25:06.438 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:06.440 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   1 occurrence(s)
+      2 в†’   1 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   1 occurrence(s)
+      5 в†’   1 occurrence(s)
+2025-03-25 16:25:06.440 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:25:06.443 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 в†’   2 occurrence(s)
+     10 в†’   3 occurrence(s)
+     30 в†’   1 occurrence(s)
+2025-03-25 16:25:06.443 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:25:06.445 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   4 occurrence(s)
+2025-03-25 16:25:06.445 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:06.447 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 в†’   2 occurrence(s)
+      8 в†’   2 occurrence(s)
+      9 в†’   2 occurrence(s)
+2025-03-25 16:25:06.447 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:25:28.079 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   2 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   2 occurrence(s)
+      5 в†’   2 occurrence(s)
+2025-03-25 16:25:28.081 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:25:28.096 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 в†’   3 occurrence(s)
+2025-03-25 16:25:28.096 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:28.099 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   2 occurrence(s)
+     -1 в†’   1 occurrence(s)
+      1 в†’   1 occurrence(s)
+2025-03-25 16:25:28.099 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:25:28.100 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:25:28.101 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:25:28.102 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 в†’   1 occurrence(s)
+2025-03-25 16:25:28.102 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:28.104 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 в†’   5 occurrence(s)
+2025-03-25 16:25:28.104 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:28.105 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   1 occurrence(s)
+      2 в†’   1 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   1 occurrence(s)
+      5 в†’   1 occurrence(s)
+2025-03-25 16:25:28.105 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:25:28.107 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 в†’   2 occurrence(s)
+     10 в†’   3 occurrence(s)
+     30 в†’   1 occurrence(s)
+2025-03-25 16:25:28.107 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:25:28.108 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   4 occurrence(s)
+2025-03-25 16:25:28.108 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:25:28.111 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 в†’   2 occurrence(s)
+      8 в†’   2 occurrence(s)
+      9 в†’   2 occurrence(s)
+2025-03-25 16:25:28.111 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:26:51.063 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   2 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   2 occurrence(s)
+      5 в†’   2 occurrence(s)
+2025-03-25 16:26:51.066 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:26:51.080 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 в†’   3 occurrence(s)
+2025-03-25 16:26:51.080 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:26:51.081 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   2 occurrence(s)
+     -1 в†’   1 occurrence(s)
+      1 в†’   1 occurrence(s)
+2025-03-25 16:26:51.082 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:26:51.083 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:26:51.083 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:26:51.085 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 в†’   1 occurrence(s)
+2025-03-25 16:26:51.085 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:26:51.087 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 в†’   5 occurrence(s)
+2025-03-25 16:26:51.087 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:26:51.089 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 в†’   1 occurrence(s)
+      2 в†’   1 occurrence(s)
+      3 в†’   1 occurrence(s)
+      4 в†’   1 occurrence(s)
+      5 в†’   1 occurrence(s)
+2025-03-25 16:26:51.089 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:26:51.091 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 в†’   2 occurrence(s)
+     10 в†’   3 occurrence(s)
+     30 в†’   1 occurrence(s)
+2025-03-25 16:26:51.092 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:26:51.093 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 в†’   4 occurrence(s)
+2025-03-25 16:26:51.093 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:26:51.095 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 в†’   2 occurrence(s)
+      8 в†’   2 occurrence(s)
+      9 в†’   2 occurrence(s)
+2025-03-25 16:26:51.095 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:27:04.976 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 16:27:04.979 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:27:04.991 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 16:27:04.991 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:27:04.994 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 16:27:04.994 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:27:04.995 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:27:04.995 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:27:04.997 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 16:27:04.998 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:27:04.999 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 16:27:05.000 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:27:05.002 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 16:27:05.002 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:27:05.003 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 16:27:05.004 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:27:05.005 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 16:27:05.005 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:27:05.007 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 16:27:05.007 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:00.713 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 16:29:00.715 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:29:00.729 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 16:29:00.729 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:00.731 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 16:29:00.731 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:00.732 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:29:00.733 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:29:00.734 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 16:29:00.735 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:00.736 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 16:29:00.737 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:00.738 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 16:29:00.738 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:29:00.740 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 16:29:00.740 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:00.742 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 16:29:00.742 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:00.744 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 16:29:00.744 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:07.458 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 16:29:07.460 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:29:07.474 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 16:29:07.474 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:07.476 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 16:29:07.476 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:07.478 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:29:07.478 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:29:07.480 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 16:29:07.481 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:07.482 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 16:29:07.483 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:07.485 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 16:29:07.485 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:29:07.487 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 16:29:07.487 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:29:07.488 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 16:29:07.488 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:29:07.491 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 16:29:07.491 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:38:23.414 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 16:38:23.416 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 16:38:23.430 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 16:38:23.430 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:38:23.432 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 16:38:23.432 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:38:23.434 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 16:38:23.434 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 16:38:23.436 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 16:38:23.436 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:38:23.437 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 16:38:23.437 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:38:23.439 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 16:38:23.439 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 16:38:23.440 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 16:38:23.440 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 16:38:23.442 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 16:38:23.442 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 16:38:23.444 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 16:38:23.444 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:17:09.403 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:17:09.406 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:17:09.420 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:17:09.420 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:09.422 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:17:09.422 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:17:09.423 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+
+2025-03-25 17:17:09.423 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:17:09.425 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:17:09.425 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:09.426 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:17:09.427 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:09.429 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:17:09.429 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:17:09.431 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:17:09.431 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:17:09.432 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:17:09.432 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:09.434 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:17:09.435 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:17:20.605 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:17:20.610 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:17:24.953 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:17:24.956 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:17:25.088 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     42 -->   1 occurrence(s)
+2025-03-25 17:17:25.089 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:25.099 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   3 occurrence(s)
+2025-03-25 17:17:25.100 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:17:25.103 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   2 occurrence(s)
+      3 -->   3 occurrence(s)
+2025-03-25 17:17:25.103 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:17:25.105 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+2025-03-25 17:17:25.105 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 2
+2025-03-25 17:26:00.471 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:26:00.474 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:26:00.478 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:26:00.478 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:26:00.480 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     -1 -->   1 occurrence(s)
+      0 -->   2 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:26:00.480 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:26:00.481 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:26:00.481 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:26:00.482 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:26:00.483 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:26:00.484 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:26:00.484 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:26:00.485 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:26:00.486 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:26:00.488 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     10 -->   3 occurrence(s)
+     20 -->   2 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:26:00.488 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:26:00.489 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:26:00.490 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:26:00.491 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:26:00.491 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:21.067 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:28:21.070 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:28:21.074 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:28:21.074 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:21.076 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     -1 -->   1 occurrence(s)
+      0 -->   2 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:28:21.076 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:21.077 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:28:21.077 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:28:21.078 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:28:21.078 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:21.079 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:28:21.079 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:21.080 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:28:21.080 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:28:21.082 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     10 -->   3 occurrence(s)
+     20 -->   2 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:28:21.082 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:21.083 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:28:21.083 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:21.084 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:28:21.084 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:29.171 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:28:29.174 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:28:29.178 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:28:29.178 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:29.179 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     -1 -->   1 occurrence(s)
+      0 -->   2 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:28:29.180 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:29.180 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:28:29.180 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:28:29.182 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:28:29.182 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:29.183 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:28:29.183 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:29.184 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:28:29.185 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:28:29.186 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     10 -->   3 occurrence(s)
+     20 -->   2 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:28:29.187 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:29.188 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:28:29.188 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:29.189 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:28:29.189 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:40.607 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:28:40.610 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:28:40.613 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:28:40.613 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:40.615 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     -1 -->   1 occurrence(s)
+      0 -->   2 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:28:40.615 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:40.616 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:28:40.616 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:28:40.617 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:28:40.617 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:40.619 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:28:40.619 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:40.620 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:28:40.621 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:28:40.623 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     10 -->   3 occurrence(s)
+     20 -->   2 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:28:40.623 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:28:40.624 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:28:40.624 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:28:40.625 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:28:40.625 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:30:49.355 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:30:49.358 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:30:49.361 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:30:49.362 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:30:49.363 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     -1 -->   1 occurrence(s)
+      0 -->   2 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:30:49.363 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:30:49.364 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+
+2025-03-25 17:30:49.364 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:30:49.365 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:30:49.365 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:30:49.367 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:30:49.367 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:30:49.368 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:30:49.368 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:30:49.370 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+     10 -->   3 occurrence(s)
+     20 -->   2 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:30:49.370 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:30:49.371 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:30:49.371 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:30:49.372 [main] DEBUG FrequencyGroovyMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:30:49.373 [main] INFO  FrequencyGroovyMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:31:00.927 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      1 -->   2 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   2 occurrence(s)
+      5 -->   2 occurrence(s)
+2025-03-25 17:31:00.930 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 4
+2025-03-25 17:31:00.941 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      2 -->   3 occurrence(s)
+2025-03-25 17:31:00.941 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:31:00.943 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      0 -->   2 occurrence(s)
+     -1 -->   1 occurrence(s)
+      1 -->   1 occurrence(s)
+2025-03-25 17:31:00.943 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:31:00.944 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+
+2025-03-25 17:31:00.945 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 0
+2025-03-25 17:31:00.947 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+    100 -->   1 occurrence(s)
+2025-03-25 17:31:00.947 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:31:00.948 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      5 -->   5 occurrence(s)
+2025-03-25 17:31:00.948 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:31:00.950 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      1 -->   1 occurrence(s)
+      2 -->   1 occurrence(s)
+      3 -->   1 occurrence(s)
+      4 -->   1 occurrence(s)
+      5 -->   1 occurrence(s)
+2025-03-25 17:31:00.950 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 5
+2025-03-25 17:31:00.951 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+     20 -->   2 occurrence(s)
+     10 -->   3 occurrence(s)
+     30 -->   1 occurrence(s)
+2025-03-25 17:31:00.951 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
+2025-03-25 17:31:00.953 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      0 -->   4 occurrence(s)
+2025-03-25 17:31:00.953 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 1
+2025-03-25 17:31:00.955 [main] DEBUG FrequencyJavaMapper - Calculated frequency map:
+      7 -->   2 occurrence(s)
+      8 -->   2 occurrence(s)
+      9 -->   2 occurrence(s)
+2025-03-25 17:31:00.955 [main] INFO  FrequencyJavaMapper - Frequency map calculated successfully. Total unique elements: 3
